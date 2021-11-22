@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320440819703",
+    "project_id": "tubitak-de840",
+    "storage_bucket": "tubitak-de840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320440819703:android:d7d499da3c60b5c68f18f2",
+        "android_client_info": {
+          "package_name": "com.example.barcodeactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320440819703-25269jf166rlk4qc7vp1vifmeavvn9p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7pdw3ezfP8evgt9xyBgBUTQB6vV9rV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320440819703-25269jf166rlk4qc7vp1vifmeavvn9p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
